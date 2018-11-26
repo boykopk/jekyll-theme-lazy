@@ -1,7 +1,7 @@
 ---
 layout: site
-title:  "Second Post for testing the theme"
-date:   2018-11-19
+title:  "Third Post for testing the theme"
+date:   2018-11-26
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tempus lorem nibh, quis vehicula quam eleifend vel. Sed sagittis urna a commodo fermentum. Donec fringilla volutpat mi, non ultrices dolor ultrices quis. Quisque vel lectus vel dui fermentum ornare. Mauris at suscipit orci. Sed convallis eget nisl ac fermentum. Ut tincidunt dui velit, ut malesuada nulla lobortis at. Morbi in gravida nulla. Donec ut massa imperdiet, pulvinar nisi quis, auctor dolor. Curabitur sed facilisis nibh, a tincidunt lectus. Duis interdum nibh quis porttitor facilisis. In sit amet nulla sed nibh tristique iaculis eu nec metus.
