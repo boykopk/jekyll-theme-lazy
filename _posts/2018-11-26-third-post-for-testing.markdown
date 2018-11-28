@@ -1,6 +1,7 @@
 ---
 layout: site
 title:  "Third Post for testing the theme"
+type: post
 date:   2018-11-26
 ---
 

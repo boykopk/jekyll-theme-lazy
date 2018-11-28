@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
 </head>
 
-<body>
+<body class="{% if page.type %}{{page.type}} {% endif %}{% if page.title %}{{ page.title | slugify }}{% else %}home{% endif %}">
     <div class="site">
 
         <input type="checkbox" id="nav-main-toggle" name="nav-main-toggle">
@@ -26,6 +26,7 @@
                     <li><a class="fas fa-comment-alt" href="{{ site.baseurl }}/">Blog</a></li>
                     <li><a class="fas fa-user-secret" href="{{ site.baseurl }}/about/">About</a></li>
                     <li><a class="fas fa-envelope" href="{{ site.baseurl }}/contacts/">Contacts</a></li>
+                    <li><a class="fas fa-key" href="{{ site.baseurl }}/login/">Login</a></li>
                 </ul>
             </nav>
 

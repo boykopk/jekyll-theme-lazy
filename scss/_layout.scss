@@ -13,3 +13,23 @@ body {
 
 body p:first-child {
 }
+
+body.login {
+	height: 100vh;
+	overflow: hidden;
+	padding-top: 0;
+	display: flex;
+}
+
+body.login .site {
+	flex: 1 0 auto;
+	background: #EEE;
+	border: 4rem solid #FFF;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+body.login .site-header {
+	display: none;
+}
